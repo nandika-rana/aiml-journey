@@ -5,7 +5,7 @@ __pycache__/
 # Jupyter checkpoints
 .ipynb_checkpoints/
 
-# Specific files in "python for ml"
-python for ml/lab_utils_uni.py
-python for ml/lab_utils_common.py
-python for ml/deeplearning.mplstyle
+# Specific files in "ml_algorithm"
+ml_algorithm/lab_utils_uni.py
+ml_algorithm/lab_utils_common.py
+ml_algorithm/deeplearning.mplstyle
