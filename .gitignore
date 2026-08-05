@@ -6,7 +6,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Specific files in "ml_algorithm"
-ml_algorithm/linear_regression/lab_utils_common.py
-ml_algorithm/linear_regression/lab_utils_uni.py
-ml_algorithm/linear_regression/deeplearning.mplstyle
-ml_algorithm/linear_regression/lab_utils_multi.py
+supervised_learning/linear_regression/lab_utils_common.py
+supervised_learning/linear_regression/lab_utils_uni.py
+supervised_learning/linear_regression/deeplearning.mplstyle
+supervised_learning/linear_regression/lab_utils_multi.py
